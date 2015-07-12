@@ -57,10 +57,10 @@ What is the difference? '=' assigns a value, '===' checks if two values are equa
 
 Here is a list of all of JS comparison operators and what they do
 
-![List of comparison operators](js-boolean-operator-table.png)
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/cssi-2.5-conditional-statements/master/js-boolean-operator-table.png">
 
 We can add even more complexity to our conditional statements with logical operators. These let us combine conditions. Is x greater than 4 AND less than 7?
 
 Here is a list of all the Logical Operators and what they do:
 
-![List of logical operators](js-logical-operators.png)
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/cssi-2.5-conditional-statements/master/js-logical-operators.png">
