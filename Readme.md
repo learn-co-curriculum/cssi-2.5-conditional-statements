@@ -37,7 +37,7 @@ Notice the syntax for our conditional statement in JS:
 + blocks are in curly brackets {}
 + expressions end with ';' semicolons.
 
-Notice also our use of indentation. Javascript doesn't need indentation to work, but it makes code way easier to read. When we move to python, the wrong whitespace will break our program, so it’s good to get used to indenting now. Plus, then you can read what's going on!
+Notice also our use of indentation. JavaScript doesn't need indentation to work, but it makes code way easier to read. When we move to python, the wrong whitespace will break our program, so it’s good to get used to indenting now. Plus, then you can read what's going on!
 
 We can make our if/else statement more complex and more specific by adding an additional conditional statement with else if:
 ```
