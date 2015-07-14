@@ -15,7 +15,7 @@ After the lesson, you will understand:
 + Syntax
 
 ## Conditional statements
-Now that we are getting the hang of manipulating our variables, let’s experiment with conditional statements. A conditional statement is a set of commands that executes if a specified condition is true - (remember our data type boolean, with a value of true or false?)
+Now that we are getting the hang of manipulating our variables, let’s experiment with conditional statements. A conditional statement is a set of commands that executes if a specified condition is true (remember our data type boolean, with a value of true or false?)
 ```
 if (condition){
   statement_1
