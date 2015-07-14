@@ -26,7 +26,7 @@ else {
 ```
 Let’s make an if/else statement for our var collegeGpa = 4.0
 ```
-if (collegeGpa === 4.0) {
+if (collegeGpa == 4.0) {
   window.alert('Doing mighty fine!');
 } else {
   window.alert('Let's hit the books!');
@@ -49,11 +49,11 @@ if (collegeGpa >= 4.0) {
    window.alert('Let's hit the books!');
 }
 ```
-You’ll notice we’ve been using some new operators in our conditional statements, like '===' and '>='. These are our comparison operators. Notice the difference between using a single = and the triple '==='.
+You’ll notice we’ve been using some new operators in our conditional statements, like '==' and '>='. These are our comparison operators. Notice the difference between using a single = and the double '=='.
 
-What is the difference? '=' assigns a value, '===' checks if two values are equal.
+What is the difference? '=' assigns a value, '==' checks if two values are equal.
 
-'===' is one of the **comparison** operators. They let you express conditions like equality and inequality. They evaluate to True or False, so they are really useful in conditional statements.
+'==' is one of the **comparison** operators. They let you express conditions like equality and inequality. They evaluate to True or False, so they are really useful in conditional statements.
 
 Here is a list of all of JS comparison operators and what they do
 
