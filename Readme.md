@@ -64,3 +64,13 @@ We can add even more complexity to our conditional statements with logical opera
 Here is a list of all the Logical Operators and what they do:
 
 <img src="https://raw.githubusercontent.com/learn-co-curriculum/cssi-2.5-conditional-statements/master/js-logical-operators.png">
+
+##Student Challenge
+**Skeeball Rater**
+![Skeeball](http://robertkaplinsky.com/wp-content/uploads/2013/03/skeeball_cover.jpg)
+
+Create a conditional statement that uses window.alert to show the rating of a Skeeball player based on their score.
+
+If you’re not up on your Skee-Ball scoring, a score <150, is pretty bad. A score of 150-250 is decent. A score of 250-350 is good. A score between 350-450 is great. A score above 450 is amazing.
+
+Be creative with the messages you write (and let's find some Ske-Ball in the office later!)
