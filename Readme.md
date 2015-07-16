@@ -75,4 +75,4 @@ Create a conditional statement that uses window.alert to show the rating of a Sk
 
 If you’re not up on your Skee-Ball scoring, a score <150, is pretty bad. A score of 150-250 is decent. A score of 250-350 is good. A score between 350-450 is great. A score above 450 is amazing.
 
-Be creative with the messages you write (and let's find some Skee-Ball in the office later!)
+Be creative with the messages you write (and let's find some Skee-Ball in the office later!).
