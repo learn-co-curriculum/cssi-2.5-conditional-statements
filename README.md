@@ -73,4 +73,4 @@ If you’re not up on your Skee-Ball scoring, a score <150, is pretty bad. A sco
 
 Be creative with the messages you write (and let's find some Skee-Ball in the office later!).
 
-<a href='https://learn.co/lessons/cssi-2.5-conditional-statements' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2.5-conditional-statements' title='Conditional Statements'>Conditional Statements</a> on Learn.co and start learning to code for free.</p>
